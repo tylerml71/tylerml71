@@ -1,5 +1,7 @@
-## Hi there 👋
+Hello 👋
 
+I'm Tyler, a person that loves analyzing data. Keeping my brain active is extremely important to me.
+*
 <!--
 **tylerml71/tylerml71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
